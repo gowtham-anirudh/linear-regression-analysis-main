@@ -10,7 +10,7 @@ Working of this project
 
 Project contents
 - `Linear_Regression.ipynb`: Jupyter Notebook with code & explanation
-- `train.csv`: Training dataset
+- `https://www.kaggle.com/competitions/playground-series-s4e9`: Training dataset
 - `test.csv`: Testing dataset
 
 Tools & Libraries
